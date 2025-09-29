@@ -1,0 +1,1 @@
+2025-09-09 - Nombre: Mateo - Numero secreto: 5278 - Intentos: 10 - Resultado: Perdió\n2025-09-10 - Nombre: Juan - Numero secreto: 5748 - Intentos: 10 - Resultado: Perdió\n
